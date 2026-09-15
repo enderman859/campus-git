@@ -1,4 +1,4 @@
-# campus - git
+# Campus Digital - Repositorio del taller
 
 ## Uso del repositorio
 
