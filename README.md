@@ -1,4 +1,4 @@
-# Campus Digital
+# Campus Digital - Repositorio del taller
 
 ## Uso del repositorio
 
