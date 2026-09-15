@@ -1,4 +1,4 @@
-# campus - git
+# Campus Digital
 
 ## Uso del repositorio
 
